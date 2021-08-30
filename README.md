@@ -1,4 +1,4 @@
-# NextI Application
+# NexTi Application
 
 Application for order management.
 
@@ -31,7 +31,7 @@ spring.datasource.username=YOUR_USER
 spring.datasource.password=YOUR_PASSWORD
 ```
 
-**Example of jdbc url**: jdbc:mysql://localhost:3306/db?useSSL=false
+**Example of jdbc url**: jdbc:mysql://localhost:3306/db_nexti
 
 > `mvn clean install`
 >
