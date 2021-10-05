@@ -1,4 +1,4 @@
-# NexTi Application
+# Nails Application
 
 Application for order management.
 
